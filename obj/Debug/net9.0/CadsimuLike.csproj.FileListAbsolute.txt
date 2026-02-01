@@ -1,0 +1,14 @@
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\bin\Debug\net9.0\CadsimuLike.exe
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\bin\Debug\net9.0\CadsimuLike.deps.json
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\bin\Debug\net9.0\CadsimuLike.runtimeconfig.json
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\bin\Debug\net9.0\CadsimuLike.dll
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\bin\Debug\net9.0\CadsimuLike.pdb
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.dll
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\refint\CadsimuLike.dll
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.pdb
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\CadsimuLike.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\PROG\CADSIMU\CadsimuLike\obj\Debug\net9.0\ref\CadsimuLike.dll
